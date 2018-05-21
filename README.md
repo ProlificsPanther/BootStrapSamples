@@ -2,7 +2,7 @@ This Repository has 5 code samples.
 Please switch branches for the actual code.
 
 The title of the codes that are available there.
-1) Mongoose Multiple Schema (Node Project)
+1) Mongoose Multiple Schema (Node Project)<br>
 Demo - https://www.youtube.com/watch?v=d3yo2TF4i08&t=14s
 2) Markdown Editor (Node Project)
 Demo - https://www.youtube.com/watch?v=INCYGjHIoBU
