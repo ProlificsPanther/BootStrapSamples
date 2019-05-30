@@ -1,4 +1,4 @@
-This Repository has 4 code samples.
+This Repository has multiple code samples.
 Please switch branches for the actual code.
 
 The title of the codes that are available there.
