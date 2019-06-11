@@ -1,5 +1,5 @@
 This Repository has multiple code samples.
-Please switch branches for the actual code.
+Please switch branches for the actual code by clicking the above branches link.
 
 Samples
 1) Mongoose Multiple Schema (Node Project)<br>
