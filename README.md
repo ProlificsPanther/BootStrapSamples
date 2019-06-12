@@ -10,7 +10,6 @@ Demo - https://www.youtube.com/watch?v=INCYGjHIoBU
 Demo - https://www.youtube.com/watch?v=Ec7EGqvdfsc
 4) How to send Email from Panther without Java
 5) Panther Progress Bar
-6) Master
 
 Need a Panther Web 551 Redhat Image? [Click Here](https://hub.docker.com/r/prolificspanther)
 
