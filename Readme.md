@@ -17,6 +17,7 @@
 5) Enter the values you wish to in the fields on the first screen and press the Percentage button.
 
 6) You will notice that the values are displayed on the next screen with progress bars.
+
 Need a Panther Web 551 Redhat Image? [Click Here](https://hub.docker.com/r/prolificspanther)
 
 [Click Here](https://www.prolifics.com/panther-trial-license-request) for a 45 day license.
