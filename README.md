@@ -1,4 +1,3 @@
-This Repository has multiple code samples.
 Please switch branches for the actual code by clicking the branches link above.
 
 Samples
