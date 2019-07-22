@@ -18,7 +18,7 @@
 
 6) You will notice that the values are displayed on the next screen with progress bars.
 
-Need a Panther Web 551 Redhat Image? [Click Here](https://hub.docker.com/r/prolificspanther/pantherweb)
+Need a Panther Web 552 Redhat Image? [Click Here](https://hub.docker.com/r/prolificspanther/pantherweb)
 
 [Click Here](https://www.prolifics.com/panther-trial-license-request) for a 45 day license.
 
