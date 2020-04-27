@@ -1,19 +1,13 @@
 Please switch branches for the actual code by clicking the branches link above.
 
 Samples
-1) Mongoose Multiple Schema (Node Project)<br>
-Demo - https://www.youtube.com/watch?v=d3yo2TF4i08
-2) Markdown Editor (Node Project)<br>
-Demo - https://www.youtube.com/watch?v=INCYGjHIoBU
-3) How to send Email from Panther using Java<br>
-Demo - https://www.youtube.com/watch?v=Ec7EGqvdfsc
-4) How to send Email from Panther without Java
-5) Panther Progress Bar
+
+1) Panther Progress Bar
 
 How to reach different branches, click on Branches on the above table head which will be present on the left.
 
 
-![](Samples.png)
+![](BootstrapSamples.png)
 
 Need a Panther Web 552 Redhat Image? [Click Here](https://hub.docker.com/r/prolificspanther/pantherweb)
 
