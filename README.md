@@ -10,6 +10,11 @@ Demo - https://www.youtube.com/watch?v=Ec7EGqvdfsc
 4) How to send Email from Panther without Java
 5) Panther Progress Bar
 
+How to reach different branches, click on Branches on the above table head which will be present on the left.
+
+
+![](Samples.png)
+
 Need a Panther Web 552 Redhat Image? [Click Here](https://hub.docker.com/r/prolificspanther/pantherweb)
 
 [Click Here](https://www.prolifics.com/panther-trial-license-request) for a 45 day license.
