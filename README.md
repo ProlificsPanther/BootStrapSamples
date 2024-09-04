@@ -1,4 +1,4 @@
-Please switch branches for the actual code by clicking the branches link above.
+Please switch branches for the actual code by clicking the Switch Branches/tags dropdown above.
 
 Samples
 
